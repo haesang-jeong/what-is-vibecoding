@@ -176,13 +176,6 @@ button {
   border-color: var(--accent-coral);
 }
 
-/* 전체 화면(슬라이드쇼) 모드에서는 하단 안내 및 버튼 숨김 */
-:fullscreen .slide-counter,
-:fullscreen .hint,
-:fullscreen .fullscreen-btn {
-  display: none;
-}
-
 /* ========================================
    DECK & SLIDES
 ======================================== */
